@@ -1,3 +1,3 @@
 # Git and GitHub Files
 
-This folder contain the lecture and assignment files.
+This folder contains the lecture and assignment files.
