@@ -1,0 +1,90 @@
+commit 962fe04940aa53ae931bf43587dd187411c50557
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 15:27:18 2022 +0545
+
+    added intro
+
+commit 51513cc4691a9cf38a64582c1ef10500bd9cbc0b
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 14:38:07 2022 +0545
+
+    Revert  "Revert "added revert folder and two files""
+    
+    This reverts commit 5d5ebcea97ea1fba79e05a832a0aa63dc1ee5fb5.
+
+commit 5d5ebcea97ea1fba79e05a832a0aa63dc1ee5fb5
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 14:37:21 2022 +0545
+
+    Revert "added revert folder and two files"
+    
+    This reverts commit 175735d838ecbdddbd7e78db91b8c7f97590db0f.
+
+commit cfa72ccef3d58f078d7133571ba8b132e05b0c90
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 14:36:34 2022 +0545
+
+    Added file3 for revert
+
+commit 84ff1a5c768f1660441082b6947bbe6afb18b519
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 14:35:39 2022 +0545
+
+    added README for revert
+
+commit 175735d838ecbdddbd7e78db91b8c7f97590db0f
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 14:34:39 2022 +0545
+
+    added revert folder and two files
+
+commit 076a909775eea44c501832c7ac5604b5763c6249
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 14:00:26 2022 +0545
+
+    added amend folder and required files
+
+commit 74401fe284e2ee3b40965bddaefe140fb63eb74c
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 13:56:14 2022 +0545
+
+    added .env to gitignore
+
+commit 301b4cc28e99df2ad9e2c72d0e303322f5015370
+Author: Rabi Subedi Chettri <rsubedi336@gmail.com>
+Date:   Mon Oct 3 13:34:22 2022 +0545
+
+    added intro
+
+commit 1e394c0a1a29a45727542dc7c86327efd27bee65
+Author: Budh Ram Gurung <brg@cloudyuga.guru>
+Date:   Fri Sep 30 11:38:42 2022 +0000
+
+    Added gitignore file
+
+commit 572a398b9f68e24f12c5ffdf19cbc37488eb05aa
+Merge: 6e57c48 15ba55f
+Author: Budh Ram Gurung <89301624+brgcy@users.noreply.github.com>
+Date:   Mon Sep 26 14:06:53 2022 +0530
+
+    Merge pull request #3 from brgcy/linux
+    
+    Added linux folder
+
+commit 15ba55fda3ab395a6162a79a962a145e44dad428
+Author: Budh Ram Gurung <brg@cloudyuga.guru>
+Date:   Mon Sep 26 08:03:32 2022 +0000
+
+    Added linux folder
+
+commit 6e57c488f4d40dbb26a32c7eaa61d525ff03de43
+Author: Budh Ram Gurung <brg@cloudyuga.guru>
+Date:   Sat Sep 24 22:15:12 2022 +0530
+
+    Updated README with baches info
+
+commit e8dc7abbc6ed0a987d20594ad088113e9961edf9
+Author: Budh Ram Gurung <brg@cloudyuga.guru>
+Date:   Sat Sep 24 22:03:47 2022 +0530
+
+    Initial commit
