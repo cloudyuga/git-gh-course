@@ -1,0 +1,14 @@
+962fe04 added intro
+51513cc Revert  "Revert "added revert folder and two files""
+5d5ebce Revert "added revert folder and two files"
+cfa72cc Added file3 for revert
+84ff1a5 added README for revert
+175735d added revert folder and two files
+076a909 added amend folder and required files
+74401fe added .env to gitignore
+301b4cc added intro
+1e394c0 Added gitignore file
+572a398 Merge pull request #3 from brgcy/linux
+15ba55f Added linux folder
+6e57c48 Updated README with baches info
+e8dc7ab Initial commit
