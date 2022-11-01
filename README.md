@@ -2,7 +2,7 @@
 
 This folder contain the lecture and assignment files.
 
-## Table of Content
+### Table of Content
 
 - Introduction and type of Version Control System (VCS)
 - Introduction to Git and GitHub
