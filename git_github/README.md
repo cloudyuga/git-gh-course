@@ -3,3 +3,5 @@
 This folder contain the lecture and assignment files created during the Git and GitHub course.
 
 Updated during the Co-hort Batch 3
+
+Updated from lab instance for `git push` demo.
