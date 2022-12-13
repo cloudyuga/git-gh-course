@@ -11,4 +11,4 @@ This folder contain the lecture and assignment files.
 - Working with Git
 - Working with GitHub
 - Getting started with GitHub
-- Git and GitHub advanced concepts
+- Git and GitHub advanced concepts 
