@@ -1,0 +1,9 @@
+527e743 Created cohort 3 batch file
+ed529ca Updated rajiya intro
+0f018dc added Rajiya introduction
+c0aeb5a added cohort 2 batch file git github
+1e394c0 Added gitignore file
+572a398 Merge pull request #3 from brgcy/linux
+15ba55f Added linux folder
+6e57c48 Updated README with baches info
+e8dc7ab Initial commit
