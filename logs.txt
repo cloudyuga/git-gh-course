@@ -1,3 +1,9 @@
+commit 2e836a7a47a50647400fe005152da10ba1bdc284
+Author: rashida <fani.rashida96@gmail.com>
+Date:   Tue Dec 13 14:36:38 2022 +0000
+
+    Added git log list
+
 commit 51463bead6eadb5dfc2a7a7c55b6f2532a54b9f6
 Author: Rashida <fani.rashida96@gmail.com>
 Date:   Tue Dec 13 14:17:44 2022 +0000
