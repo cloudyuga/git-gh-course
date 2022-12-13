@@ -1,0 +1,62 @@
+commit 51463bead6eadb5dfc2a7a7c55b6f2532a54b9f6
+Author: Rashida <fani.rashida96@gmail.com>
+Date:   Tue Dec 13 14:17:44 2022 +0000
+
+    Updated Git and GitHub README with TOC
+
+commit 527e743efea9b8a67ddc2b094073d070f3d3587a
+Author: Budh Ram Gurung <89301624+brgcy@users.noreply.github.com>
+Date:   Tue Nov 29 20:55:36 2022 +0530
+
+    Created cohort 3 batch file
+
+commit ed529ca9b8103de84a541e42ec7d8a74a02e64f2
+Author: Budh Ram Gurung <89301624+brgcy@users.noreply.github.com>
+Date:   Wed Nov 2 10:27:15 2022 +0530
+
+    Updated rajiya intro
+
+commit 0f018dccd3f50c66fa5e5fdb68860493c1979c13
+Author: rajiya <sulthana.sk.1984@gmail.com>
+Date:   Tue Nov 1 06:21:09 2022 +0000
+
+    added Rajiya introduction
+
+commit c0aeb5a60e23385f214266c774ad12f86406ae08
+Author: Budh Ram Gurung <89301624+brgcy@users.noreply.github.com>
+Date:   Thu Oct 27 20:45:06 2022 +0530
+
+    added cohort 2 batch file git github
+
+commit 1e394c0a1a29a45727542dc7c86327efd27bee65
+Author: Budh Ram Gurung <brg@cloudyuga.guru>
+Date:   Fri Sep 30 11:38:42 2022 +0000
+
+    Added gitignore file
+
+commit 572a398b9f68e24f12c5ffdf19cbc37488eb05aa
+Merge: 6e57c48 15ba55f
+Author: Budh Ram Gurung <89301624+brgcy@users.noreply.github.com>
+Date:   Mon Sep 26 14:06:53 2022 +0530
+
+    Merge pull request #3 from brgcy/linux
+    
+    Added linux folder
+
+commit 15ba55fda3ab395a6162a79a962a145e44dad428
+Author: Budh Ram Gurung <brg@cloudyuga.guru>
+Date:   Mon Sep 26 08:03:32 2022 +0000
+
+    Added linux folder
+
+commit 6e57c488f4d40dbb26a32c7eaa61d525ff03de43
+Author: Budh Ram Gurung <brg@cloudyuga.guru>
+Date:   Sat Sep 24 22:15:12 2022 +0530
+
+    Updated README with baches info
+
+commit e8dc7abbc6ed0a987d20594ad088113e9961edf9
+Author: Budh Ram Gurung <brg@cloudyuga.guru>
+Date:   Sat Sep 24 22:03:47 2022 +0530
+
+    Initial commit
